@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+rails newするときに--skip-active-recordオプションを付けた場合の差分
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://github.com/hid3h/diff-rails-active-record/pull/1/commits/725b4147da5b94db4d5f5ded0c7bf5c27c3d4489
